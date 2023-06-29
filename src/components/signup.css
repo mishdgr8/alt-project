@@ -1,0 +1,40 @@
+
+#Hero{
+    height: 700px;
+}
+.hero-section-sign{
+color: #fff;
+font-size: 50px;
+ background-image:url(./images/leaf.png);
+    background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+    height: 450px;
+}
+.foot{
+padding-top: 2em;
+    font-size: 50px;
+    font-family: "Poppins", sans-serif;
+}
+.email{
+    font-size: 24px;
+    text-align: center;
+    width: 30%; 
+    
+}
+input,
+input::placeholder {
+    font-size: 16px;
+    margin-bottom: 2rem;
+    margin-top: 2rem;
+}
+
+.btn{
+    padding-left: 1.5rem;
+    border-radius: 0;
+    padding-right: 1.5rem;
+    width: 11.875rem;
+    height: 3.75rem;
+    font-size: medium;
+ 
+}

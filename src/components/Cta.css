@@ -1,0 +1,33 @@
+#Hero{
+    /* height: 700px; */
+    margin-bottom: 4rem;
+}
+.hero-section-cta{
+color: #fff;
+
+ background-image:url(./images/vase.png);
+    background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+    height: 100%;
+}
+h1{
+padding-top: 2em;
+    font-size: 5.25rem;
+    font-family: "Poppins", sans-serif;
+}
+p{
+    font-weight: 400;
+    font-size: 20px;
+    padding: 2em;
+    font-family: "Poppins", sans-serif;  
+}
+.btn{
+    padding-left: 1.5rem;
+    border-radius: 0;
+    padding-right: 1.5rem;
+    width: 11.875rem;
+    height: 3.75rem;
+    font-size: medium;
+ 
+}

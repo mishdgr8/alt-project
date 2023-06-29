@@ -1,0 +1,35 @@
+.card-deck{
+    z-index: -1;
+    position: relative;
+    color: #4d2c57;
+    border: none;
+    margin-bottom: 4rem;
+}
+
+h3{
+   font-size: 3rem;
+   font-weight: 400;
+   margin-top: 2rem;
+   margin-bottom: 2rem;
+   margin-right: 0;
+   color: #4d2c57;
+}
+.card-title{
+    font-size: 1.5rem;
+    font-weight: 600;
+    margin: 1rem;
+}
+.card-text{
+    padding: 0;
+    margin: 0;
+
+}
+.card{
+    border: none;
+}
+.btn-buy{
+    display:inline-block;
+    color: #4d2c57;
+    border-color: #4d2c57;
+    margin-bottom: 2rem;
+}
